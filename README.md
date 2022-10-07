@@ -1,5 +1,5 @@
 # MURA
-**Work in progress**
+**WORK IN PROGRESS**
 
 
 🖐 This repository contains jupyter notebooks of the development of a deep learning model to detect abnormalities in hand radiographies. The dataset
